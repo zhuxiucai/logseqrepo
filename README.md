@@ -7,8 +7,11 @@ raycast脚本发送到flomo（mac类alfred启动器）
 使用方法：
 
 唤起raycast
+
 输入：flomo 空格 想输入的文本
+
 enter
+
 ————————————
 脚本内容：
 
