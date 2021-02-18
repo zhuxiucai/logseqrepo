@@ -38,7 +38,7 @@ enter
     # @raycast.argument1 { "type": "text", "placeholder": "input text for flomo ..." }
     
     
-    curl -X POST https://flomoapp.com/iwh/MzcxNTU/d5e48575808755c67366196ff3842955/ \
+    curl -X POST 你的api地址 \
          -H 'Content-Type: application/json' \
          -d "{\"content\": \"$1\"}" \
          &>flomo_sh_result.txt
